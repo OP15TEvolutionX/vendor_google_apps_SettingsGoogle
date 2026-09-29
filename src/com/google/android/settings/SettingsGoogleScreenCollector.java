@@ -16,7 +16,7 @@ import com.google.android.settings.update.SoftwareUpdateScreen;
 public abstract class SettingsGoogleScreenCollector {
 
     public static FixedArrayMap<String, PreferenceScreenMetadataFactory> get() {
-        return new FixedArrayMap<>(5, SettingsGoogleScreenCollector::init);
+        return new FixedArrayMap<>(6, SettingsGoogleScreenCollector::init);
     }
 
     private static void init(
