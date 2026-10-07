@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ឧ. ទូរសព្ទ Pixel របស់សុភាព។</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ចូលគណនី Google ដើម្បីប្រើជាមួយលំហឯកជនរបស់អ្នក</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ឮការអានអក្សរ, អានឮៗ, អានអេក្រង់, កម្មវិធី​អាន​អេក្រង់, ជំងឺវិកលទស្សន៍, ជ្រើសរើសដើម្បីអាន</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ចលនា, ម៉ឺនុយរហ័ស, ម៉ឺនុយ​ជំនួយ, ចុច, ភាពស្ទាត់ជំនាញ, ជំងឺ​សន្លាក់ឆ្អឹង, rsi, ជំងឺដាច់សរសៃឈាម​ខួរក្បាល, ញ័រ, ជំងឺក្រិន​សរសៃឈាមច្រើន ពិការ​ខួរក្បាល, ប៊ូតុង, ហាតវែរ, សង្កត់, ការចុករោយ, ដៃ, ការឈឺចាប់, អាចចូល​ប្រើបាន, ជំនួយ</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">ម៉ូទ័រ, ឧបករណ៍ចុចសម្រាប់ជនពិការ, ដៃ, AT, បច្ចេកវិទ្យាជំនួយ, ពិការ, ALS, ការស្កេន, ការស្កេនជំហាន</string>

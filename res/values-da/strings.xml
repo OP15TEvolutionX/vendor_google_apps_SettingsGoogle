@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">F.eks. Jakobs Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Log ind på en Google-konto for at bruge dit private område</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Hør tekst, oplæsning, taleskærm, skærmlæser, ordblindhed, tekstoplæsning</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">mobilitet, kvikmenu, hjælpemenu, berøring, fingerbevægelighed, gigt, rsi, slagtilfælde, ufrivillige bevægelser, multipel sklerose, spastisk lammelse, knap, hardware, tryk, belastningsskade, hånd, smerte, tilgængelighed, hjælp</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorik, skift, hånd, hjælpeteknologi, lammelse, ALS, scanning, trinbaseret scanning</string>

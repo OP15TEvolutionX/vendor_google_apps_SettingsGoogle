@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Misalnya, Pixel Joko.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Login ke Akun Google untuk digunakan dengan ruang privasi Anda</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Dengarkan teks, baca lisan, ucapkan layar, pembaca layar, disleksia, klik untuk diucapkan</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorik, menu cepat, menu asistif, sentuhan, ketangkasan, artritis, rsi, stroke, tremor, sklerosis ganda, lumpuh otak, tombol, hardware, tekan, cedera regangan berulang, tangan, nyeri, mudah diakses, bantuan</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorik, tombol akses, tangan, AT, teknologi pendukung, kelumpuhan, ALS, pemindaian, pemindaian bertahap</string>

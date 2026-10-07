@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Sign in to a Google Account to use with your private space</string>
 
@@ -9,6 +12,9 @@
     <!-- Dark theme screen, description of Dark theme feature. [CHAR LIMIT=NONE] -->
     <string name="dark_ui_text">Dark theme uses a black background to help keep your battery alive longer. Dark theme schedules wait to turn on until your screen is off.</string>
     <string name="dark_ui_text_force_invert">Use a dark background to reduce battery usage and make your screen more comfortable to view. Your theme will change if you have a schedule, when the screen is off.</string>
+
+    <!-- Summary for the top level wallpapers settings [CHAR LIMIT=NONE]-->
+    <string name="wallpaper_dashboard_summary">Colors, themed icons, app grid</string>
 
     <!-- Title of the communal settings under Settings > Communal [CHAR LIMIT=30] -->
     <string name="communal_settings_title">Hub mode</string>
@@ -42,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Hear text, read aloud, speak screen, screen reader, dyslexia, select to speak</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motor, quick menu, assistive menu, touch, dexterity, arthritis, rsi, stroke, tremor, multiple sclerosis, cerebral palsy, button, hardware, press, repetitive strain injury, hand, pain, accessible, help</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motor, switch, hand, AT, assistive technology, paralysis, ALS, scanning, step scanning</string>
@@ -284,15 +293,27 @@
 
     <!-- Url for Accessibility Disability Support [DO NOT TRANSLATE] -->
     <string name="help_url_accessibility_disability_support" translatable="false">https://support.google.com/accessibility?p=android-A11Y_setting</string>
+
+    <!-- Summary for Apps & Notification settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="app_and_notification_dashboard_summary">Assistant, recent apps, default apps</string>
     <string name="keywords_gesture">gesture, moves</string>
+
+    <!-- Summary for sound settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="sound_dashboard_summary">Volume and haptics</string>
 
     <!-- Sound: Title for the option enabling spatializer effect. [CHAR LIMIT=30] -->
     <string name="spatial_audio_title">Spatial audio</string>
+
+    <!-- Full package name of OEM preferred device feedback reporter [DO NOT TRANSLATE] -->
+    <string name="oem_preferred_feedback_reporter" translatable="false">com.google.android.gms</string>
 
     <!-- Title of one of the choices in a dialog (with title defined in usb_use) that lets the user
          select what the USB connection for this device should be used for. This choice
          is for transferring files via MTP. -->
     <string name="usb_use_file_transfers">File transfer / Android Auto</string>
+
+    <!-- Summary for Display settings, explaining a few important settings under it [CHAR LIMIT=NONE]-->
+    <string name="display_dashboard_summary">Dark theme, font size, touch</string>
 
     <!-- Used as title on the automatic storage manager settings. [CHAR LIMIT=60] -->
     <string name="automatic_storage_manager_settings">Smart Storage</string>

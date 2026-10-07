@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ለምሳሌ፦ የአበበ Pixel</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">በግል ቦታዎ ለመጠቀም ወደ Google መለያ ይግቡ</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ጽሑፍን ይስሙ፣ ጮክ ብለህ አንብብ፣ ማያ ገፅ ላይ ያለውን ተናገር፣ ማያ ገፅ አንባቢ፣ ዲስሌክሲያ፣ ለመናገር ምረጥ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ሞተር፣ ፈጣን ምናሌ፣ አጋዥ ምናሌ፣ ንክኪ፣ ቅልጥፍና፣ አርትራይቲስ፣ አርኤስአይ፣ ስትሮክ፣ መንቀጥቀጥ፣ መልቲፕል ስክለሮሲስ፣ ሰረብራል ፓልሲ፣ አዝራር፣ ሃርድዌር፣ መጫን፣ ተደጋጋሚ የጫና ጉዳት፣ እጅ፣ ሕመም፣ ተደራሽ፣ እገዛ</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">ሞተር፣ ማብሪያ/ማጥፊያ፣ እጅ፣ ኤቲ፣ ቴክኖሎጂ፣ ሽባነት፣ ኤኤልኤስ፣ መቃኘት፣ ደረጃ መቃኘት</string>

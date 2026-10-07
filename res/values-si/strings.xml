@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">උදාහරණයක් ලෙස, ජෝගේ Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ඔබේ පුද්ගලික ඉඩ සමග භාවිත කිරීමට Google ගිණුමකට පුරන්න</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">පෙළ අසන්න, ශබ්ද නඟා කියවන්න, කතා කරන්න තිරය, තිර කියවනය, ඩිස්ලෙක්සියා, කථා කිරීමට තෝරන්න</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">චාලක, ඉක්මන් මෙනුව, සහාය මෙනුව, ස්පර්ශය, හුරුකම, ආතරයිටිස්, rsi, ආඝාතය, වෙව්ලීම, බහු දෘඩවීම, මස්තිෂ්ක අංශභාගය, බොත්තම්, දෘඩාංග, ඔබන්න, පුනරාවර්තන වික්‍රියා තුවාල, අත, වේදනාව, ප්‍රවේශ විය හැකි, උදවු</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">මෝටරය, ස්විචය, අත, AT, උපකාරක තාක්ෂණය, අංශභාගය, ALS, ස්කෑන් කිරීම, පියවර ස්කෑන් කිරීම</string>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Kwa mfano, Pixel ya Juma.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Ingia katika Akaunti yako ya Google ili uitumie na sehemu yako ya faragha</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Sikiliza maandishi, soma kwa sauti, skrini inayozungumza, kisoma skrini, kutoweza kusoma vizuri, chagua ili izungumze</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ulemavu wa misuli, menyu ya haraka, menyu saidizi, kugusa, umahiri wa kutumia vidole, yabisi-kavu, rsi, kiharusi, kutetema, kuathirika kwa mfumo wa neva, kupooza ubongo, kitufe, maunzi, kubonyeza, kuumia misuli, mkono, maumivu, ufikivu, usaidizi</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">mota, swichi, mkono, AT, teknolojia saidizi, kupooza, ALS, kukagua, kukagua hatua</string>

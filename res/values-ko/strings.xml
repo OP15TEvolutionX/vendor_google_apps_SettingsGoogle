@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">예: 수지의 Pixel</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">비공개 스페이스에서 사용할 Google 계정에 로그인</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">텍스트 듣기, 소리 내어 읽어주기, 화면 읽기, 스크린 리더, 난독증, 텍스트 읽어주기</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">거동, 빠른 메뉴, 보조 메뉴, 터치, 민첩성, 관절염, RSI, 뇌졸중, 떨림, 다발성 경화증, 뇌성마비, 버튼, 하드웨어, 누르기, 반복성 긴장 장애, 손, 통증, 접근성, 지원</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">거동, 스위치, 손, AT, 보조 기술, 마비, ALS, 스캔, 단계 스캔</string>

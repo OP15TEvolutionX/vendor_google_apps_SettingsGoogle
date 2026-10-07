@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Ví dụ: Pixel của Tuấn</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Hãy đăng nhập vào một Tài khoản Google mà bạn sẽ sử dụng cho không gian riêng tư của mình</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Nghe văn bản, đọc to, đọc nội dung trên màn hình, trình đọc màn hình, chứng khó đọc, chọn để nói</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">vận động, trình đơn nhanh, trình đơn hỗ trợ, cảm ứng chạm, linh hoạt, viêm khớp, RSI, đột quỵ, run rẩy, bệnh đa xơ cứng, bại não, nút, phần cứng, nhấn, chấn thương do căng cơ lặp đi lặp lại, tay, đau, hỗ trợ tiếp cận, trợ giúp</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">vận động, công tắc, tay, AT, công nghệ hỗ trợ, bại liệt, xơ cứng teo cơ một bên (ALS), quét, quét theo từng bước</string>

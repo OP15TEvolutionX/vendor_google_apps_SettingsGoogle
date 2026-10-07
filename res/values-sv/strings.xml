@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">T.ex. Jonas Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Logga in på ett Google-konto för att använda det med ditt privata utrymme</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Höra text, läsa högt, skärmuppläsning, skärmläsare, dyslexi, textuppläsning</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorik, snabbmeny, stödmeny, trycka, fingerfärdighet, artrit, förslitningsskada, stroke, darrning, multipel skleros, cerebral pares, knapp, hårdvara, tryck, belastningsskada, hand, smärta, tillgänglig, hjälp</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorik, brytare, AT, hjälpmedelsteknik, paralys, ALS, genomsökning, stegvis genomsökning</string>

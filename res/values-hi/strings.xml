@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">जैसे, सुधीर का Pixel फ़ोन.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">प्राइवेट स्पेस का इस्तेमाल करने के लिए, Google खाते से साइन करें</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">टेक्स्ट सुनना, तेज़ आवाज़ में सुनना, स्क्रीन पर सुनने के लिए टेक्स्ट चुनना, स्क्रीन रीडर, डिस्लेक्सिया, \'चुनें और सुनें\' सुविधा</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">मोटर, फटाफट मेन्यू, सुलभता की सुविधाओं वाला मेन्यू, टच, डेक्स्टेरिटी, अर्थराइटिस, आरएसआई, स्ट्रोक, ट्रेमोर, मल्टिपल स्क्लिरोसिस, सेरब्रल पॉल्ज़ी, बटन, हार्डवेयर, प्रेस, रेपेटिटिव स्ट्रेन इंजरी, हैंड, पेन, ऐक्सेसबल, सहायता</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">मोटर, स्विच, हाथ, एटी, सहायक टेक्नोलॉजी, लकवा, एएलएस, स्कैनिंग, स्टेप स्कैनिंग</string>

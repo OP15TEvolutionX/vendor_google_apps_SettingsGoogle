@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Hal., Pixel ni Joe.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Mag-sign in sa isang Google Account para gamitin sa iyong pribadong space</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Pakinggan ang text, basahin nang malakas, bigkasin ang nasa screen, screen reader, dyslexia, select to speak</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">paggalaw, mabilisang menu, pantulong na menu, pagpindot, kagalingan sa paggalaw, arthritis, rsi, stroke, tremor, multiple sclerosis, cerebral palsy, button, hardware, pindutin, paulit-ulit na pinsala sa kalamnan, kamay, pananakit, naa-access, tulong</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motor, switch, kamay, AT, pantulong na teknolohiya, pagkaparalisa, ALS, pag-scan, paisa-isang pag-scan</string>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Pvz., Jurgio „Pixel“ įrenginys.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Prisijunkite prie „Google“ paskyros, kad galėtumėte naudoti su privačia erdve</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Išgirsti tekstą, skaityti garsiai, kalbantis ekranas, ekrano skaitytuvas, disleksija, teksto ištarimas</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorika, spartusis meniu, pagalbinis meniu, lietimas, miklumas, artritas, RSI, priepuolis, tremoras, išsėtinė sklerozė, cerebrinis paralyžius, mygtukas, aparatinė įranga, paspausti, pakartotinis patempimas, ranka, skausmas, pasiekiamas, padėti</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorika, perjungti, ranka, ADBK, pagalbinės technologijos, paralyžius, ALS, nuskaitymas, veiksmų nuskaitymas</string>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">მაგ., ნიკას Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Google ანგარიშით კერძო სივრცით სარგებლობისთვის შედით თქვენს ანგარიშში</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ტექსტის მოსმენა, ხმამაღლა წაკითხვა, ეკრანის გახმოვანება, ეკრანის წამკითხველი, დისლექსია, მონიშვნა წარმოსათქმელად</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">მოტორული, სწრაფი მენიუ, დამხმარე მენიუ, შეხება, უნარი, ართრიტი, RSI, ინსულტი, ტრემორი, გაფანტული სკლეროზი, ცერებრული დამბლა, ღილაკი, აპარატურა, დაჭერა, განმეორებითი დაძაბვის დაზიანება, ხელი, ტკივილი, ადაპტირებული, დახმარება</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">ძრავა, გადამრთველი, ხელი, დამხმარე ტექნოლოგია (AT), დამხმარე ტექნოლოგია, პარალიზი, ამიოტროფული გვერდითი სკლეროზი (ALS), სკანირება, ნაბიჯების სკანირება</string>

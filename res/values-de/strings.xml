@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Zum Beispiel „Peters Pixel“.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Melde dich in einem Google-Konto an, um es mit deinem vertraulichen Profil zu nutzen</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Text hören, vorlesen, Bildschirminhalt sprechen, Screenreader, Legasthenie, Vorlesen</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorische Einschränkungen, Bedienungshilfen-Menü, Berührung, Feinmotorik, Arthritis, RSI-Syndrom, Schlaganfall, Tremor, multiple Sklerose, zerebrale Kinderlähmung, Button, Hardware, drücken, Repetitive-Strain-Injury-Syndrom, Hand, Schmerzen, barrierefrei, Hilfe</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">Motorik, Schalter, Hand, HT, Hilfstechnologien, Lähmung, ALS, Scannen, schrittweises Scannen</string>

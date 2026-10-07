@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Napr. Petrov Pixel</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Prihláste sa do účtu Google, ktorý chcete používať so svojím súkromným priestorom</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Vypočuť text, predčítať, vyslovovať obsah obrazovky, čítačka obrazovky, dyslexia, počúvanie vybraného textu</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorický, rýchla ponuka, ponuka dostupnosti, dotyk, zručnosť, artritída, rsi, porážka, chvenie, roztrúsená skleróza, mozgová obrna, tlačidlo, hardvér, stlačiť, zranenie z opakovaného namáhania, ruka, bolesť, dostupný, pomoc</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorické, prepínač, ručne, AT, asistenčná technológia, ochrnutie, ALS, prehľadávanie, postupné prehľadávanie</string>

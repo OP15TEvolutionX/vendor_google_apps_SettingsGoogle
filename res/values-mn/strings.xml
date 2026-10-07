@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Жишээ нь Joe-н Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Хувийн орон зайтайгаа ашиглах Google Бүртгэлд нэвтэрнэ үү</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Текстийг сонсох, чангаар унших, дэлгэцийг унших, дэлгэц уншигч, дислекси, ярихаар сонгох</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">хөдөлгөөн, шуурхай цэс, туслах цэс, хүрэлт, эв дүй, үе мөчний үрэвсэл, rsi, цус харвалт, салгалах, түгээмэл хатуурал, тархины саажилт, товчлуур, техник хангамж, хэвлэл мэдээлэл, олон дахин шөрмөсний гэмтэл, гар, өвдөлт, хүртээмж, тусламж</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">мотор, сэлгэх, гар, AT, туслах технологи, саажилт, ALS, скан хийх, алхамт скан</string>

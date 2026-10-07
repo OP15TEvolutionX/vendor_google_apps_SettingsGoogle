@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ဥပမာ- Joe ၏ Pixel</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">သင့်သီးသန့်နေရာကို အသုံးပြုရန် Google Account သို့ လက်မှတ်ထိုးဝင်ပါ</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">စာသား နားထောင်ရန်၊ အသံထွက်ဖတ်ရန်၊ ဖန်သားပြင် ဖတ်ပြရန်၊ ဖန်သားပြင်ဖတ်အက်ပ်၊ စာဖတ်ခက်သည့်ရောဂါ၊ စကားပြော ရွေးရန်</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">မော်တာ၊ အမြန်မီနူး၊ အကူအညီ မီနူး၊ ထိခြင်း၊ ကျွမ်းကျင်မှု၊ အဆစ်ရောင်နာ၊ rsi, လေဖြတ်၊ ရင်တုန်ခြင်း၊ မာလ်တီပယ် စကယ်လရိုးဆစ်၊ ဦးနှောက်အကြောသေရောဂါ၊ ခလုတ်၊ ဟာ့ဒ်ဝဲ၊ ဖိခြင်း၊ ကြွက်သားနာကျင်ရောင်ရမ်းခြင်း၊ လက်၊ နာကျင်မှု၊ သုံးရလွယ်၊ ကူညီမှု</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">မော်တာ၊ အသွင်တူ ခလုတ်၊ လက်၊ AT၊ ကူညီပေးသော နည်းပညာ၊ သွက်ချာပါဒဖြစ်ခြင်း၊ ALS၊ စကင်ဖတ်ခြင်း၊ အဆင့်လိုက် စကင်ဖတ်ခြင်း</string>

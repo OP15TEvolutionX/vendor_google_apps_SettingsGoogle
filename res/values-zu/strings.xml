@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Isb., i-Pixel ka-Sipho.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Ngena ngemvume ku-Google Account ukuze usebenzise indawo engasese yakho</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Yizwa umbhalo, funda uphimisele, khulumisa isikrini, isifundi sesikrini, idyslexia, khetha ukuze ukhulume</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">imoto, imenyu esheshayo, imenyu yosizo, ukuthinta, i-dexterity, isifo samathambo, i-rsi, ukufa kohlangothi, idumbe, i-multiple sclerosis, i-cerebral palsy, inkinobho, ihadiwe, cindezela, ukulimala kokucindezeleka okuphindayo, isandla, ubuhlungu, ukufinyelela, usizo</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">i-motor, iswishi, isandla, i-AT, ubuchwepheshe bokusiza, ukukhubazeka, i-ALS, ukuskena, ukuskena kwesinyathelo</string>

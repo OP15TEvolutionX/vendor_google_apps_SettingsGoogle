@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ຕົວຢ່າງ: Pixel ຂອງ Joe.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ເຂົ້າສູ່ລະບົບບັນຊີ Google ເພື່ອໃຊ້ກັບພື້ນທີ່ສ່ວນບຸກຄົນຂອງທ່ານ</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ຟັງຂໍ້ຄວາມ, ອ່ານອອກສຽງ, ອ່ານໜ້າຈໍ, ໂປຣແກຣມອ່ານໜ້າຈໍ, ຄວາມບົກຜ່ອງໃນການອ່ານ, ເລືອກເພື່ອເວົ້າ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ມໍເຕີ, ເມນູດ່ວນ, ເມນູຊ່ວຍເຫຼືອ, ການສໍາພັດ, ຄວາມຊໍານິຊໍານານ, ໂລກຂໍ້ອັກເສບ, ຫຼອດເລືອດ, ອາການສັ່ນ, ຫຼາຍເສັ້ນເລືອດຕີບ, ສະໝອງພິການ, ປຸ່ມ, ຮາດແວ, ກົດ, ການບາດເຈັບເປັນຊ້ຳໆ, ມື, ເຈັບ, ເຂົ້າເຖິງໄດ້, ການຊ່ວຍເຫຼືອ</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">ມໍເຕີ, ສະວິດ, ມື, AT, ເທັກໂນໂລຢີການຊ່ວຍເຫຼືອ, ອຳມະພາດ, ALS, ການສະແກນ, ການສະແກນແບບຂັ້ນຕອນ</string>

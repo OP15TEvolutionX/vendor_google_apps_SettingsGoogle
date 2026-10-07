@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ఉదా. జో యొక్క Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">మీ ప్రైవేట్ స్పేస్‌తో ఉపయోగించడానికి Google ఖాతాకు సైన్ ఇన్ చేయండి</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">టెక్స్ట్ వినండి, బిగ్గరగా చదవండి, స్క్రీన్‌లో మాట్లాడండి, స్క్రీన్ రీడర్, డిస్లెక్సియా, మాట్లాడటానికి ఎంచుకోండి</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">మోటార్, క్విక్ మెనూ, సహాయక మెనూ, స్పర్శ, నేర్పరితనం, ఆర్థరైటిస్, rsi, స్ట్రోక్, వణుకు, మల్టిపుల్ స్క్లేరోసిస్, సెరిబ్రల్ పాల్సీ, బటన్, హార్డ్‌వేర్, ప్రెస్, రిపీటీటివ్ స్ట్రెయిన్ గాయం, చేయి, నొప్పి, యాక్సెస్ చేయగినది, సహాయం</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">మోటార్, స్విచ్, చేయి, AT, సహాయకర టెక్నాలజీ, పారాలసిస్, ALS, స్కానింగ్, స్టెప్ స్కానింగ్</string>

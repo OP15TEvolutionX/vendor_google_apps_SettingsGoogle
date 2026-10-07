@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">‏جهاز Pixel الخاص بهاني مثلاً</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">‏سجِّل الدخول إلى حساب Google لاستخدام هذه الميزة مع مساحتك الخاصة.</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">سماع النص، القراءة بصوت عالٍ، قراءة المحتوى الظاهر على الشاشة، قارئ الشاشة، عسر القراءة، سماع الاختيار</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">مهارات حركية، قائمة سريعة، قائمة مساعدة، لمس، مهارات يدوية، التهاب المفاصل، إصابة الإجهاد المتكرر، سكتة دماغية، رّعاش، تصلّب متعدد، شلل دماغي، زر، أجهزة، ضغط، إصابة الإجهاد المتكرر، يد، ألم، سهلة الاستخدام، مساعدة</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">المهارات الحركية، مفتاح التبديل، اليد، التكنولوجيا المساندة، التكنولوجيا المساعدة، الشلل، داء اعتلال الأعصاب الحركية، المسح الضوئي، المسح المرحلي.</string>

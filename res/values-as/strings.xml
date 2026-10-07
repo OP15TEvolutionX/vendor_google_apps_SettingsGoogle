@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">যেনে, মনোজৰ Pixel ফ’ন</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">আপোনাৰ প্ৰাইভেট স্পেচৰ জৰিয়তে ব্যৱহাৰ কৰিবলৈ এটা Google একাউণ্টত ছাইন ইন কৰক</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">পাঠ শুনক, ডাঙৰকৈ পঢ়ক, স্ক্ৰীনখন পঢ়ক, স্ক্ৰীন ৰীডাৰ, ডিছলেক্সিয়া, কথা ক’বলৈ বাছনি কৰক</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">মটৰ, ক্ষিপ্ৰ মেনু, সহায়ক মেনু, স্পৰ্শ, দক্ষতা, অৰ্থ্ৰাইটিছ, আৰএছআই, ষ্ট্ৰ’ক, ট্ৰিম’ৰ, একাধিক স্ক্লেৰ’চিছ, চেৰেব্ৰেল পলছি, বুটাম, হাৰ্ডৱেৰ, প্ৰেছ কৰা, পুনৰাবৃত্তিমূলক ষ্ট্ৰেইন আঘাত, হাত, যন্ত্ৰণা, এক্সেছ কৰিব পৰা, সহায়</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">মটৰ, সলনি কৰক, হাত, AT, সহায়ক প্ৰযুক্তিবিদ্যা, পক্ষাঘাত, ALS, স্কেনিং, ষ্টেপ স্কেনিং</string>

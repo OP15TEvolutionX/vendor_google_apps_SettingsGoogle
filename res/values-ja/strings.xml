@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">例: 佐藤の Pixel</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">プライベート スペースで使用するには Google アカウントにログインしてください</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">聴く テキスト, 読み上げ, 読み上げ 画面, スクリーン リーダー, 失読症, 選択して読み上げ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">運動, クイック メニュー, アシスト メニュー, タップ, 運動機能, 関節炎, RSI, 脳卒中, 振戦, 多発性硬化症, 脳性麻痺, ボタン, ハードウェア, 押す, 反復運動損傷, 腕, 痛み, バリアフリー, サポート</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">運動, スイッチ, 手, AT, 支援 技術, 麻痺, ALS, スキャン, 手順 スキャン</string>

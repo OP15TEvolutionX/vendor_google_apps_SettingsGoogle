@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">जस्तै, Joe को Pixel।</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">आफ्नो निजी स्पेस प्रयोग गर्न Google खातामा साइन इन गर्नुहोस्</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">टेक्स्ट पढेको सुन्नुहोस्, पढेर सुनाउने सुविधा, स्पिक स्क्रिन, स्क्रिन रिडर, डिस्लेक्सिया, सेलेक्ट टू स्पिक</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">मोटर, क्विक मेनु, सहायक मेनु, टच, निपुणता, अर्थोटिक्स, rsi, स्टोर्क, ट्रेमर, मल्टीपल स्क्लेरोसिस, सेरेब्रल पाल्सी, बटन, हार्डवेएर, थिच्ने, शरिरका अङ्ग बारम्बार गल्ने रोग, हात, दुखाई, सर्वसुलभ, मद्दत</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">मांसपेशीको चाल, स्विच, हात, AT, सहायतामूलक प्रविधि, पक्षाघात, ALS, स्क्यानिङ, स्टेप स्क्यानिङ</string>

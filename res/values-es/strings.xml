@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Por ejemplo, Pixel de Juan</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Inicia sesión en una cuenta de Google para usarla con tu espacio privado</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Oír texto, leer en voz alta, leer la pantalla, lector de pantalla, dislexia, Enunciar selección</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motricidad, menú rápido, menú de apoyo, tacto, destreza, artritis, rsi, accidente cerebrovascular, temblores, esclerosis múltiple, parálisis cerebral, botón, hardware, pulsar, lesión por esfuerzo repetitivo, mano, dolor, accesible, ayuda</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">habilidades motoras, motricidad, interruptor, mano, tecnología asistencial, parálisis, ELA, búsqueda, búsqueda por pasos</string>

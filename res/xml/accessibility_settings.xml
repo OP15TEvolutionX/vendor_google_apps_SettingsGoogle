@@ -54,15 +54,6 @@
             android:title="@string/accessibility_color_and_motion_title"
             settings:searchable="true"/>
 
-        <com.android.settingslib.PrimarySwitchPreference
-            android:fragment="com.android.settings.accessibility.ToggleReduceBrightColorsPreferenceFragment"
-            android:key="reduce_bright_colors_preference"
-            android:icon="@drawable/ic_reduce_bright_colors"
-            android:persistent="false"
-            android:title="@string/reduce_bright_colors_preference_title"
-            settings:keywords="@string/keywords_reduce_bright_colors"
-            settings:controller="com.android.settings.accessibility.ReduceBrightColorsPreferenceController"/>
-
         <Preference
             android:fragment="com.android.settings.accessibility.screenmagnification.ui.MagnificationPreferenceFragment"
             android:key="magnification_preference_screen"
@@ -72,6 +63,20 @@
             settings:keywords="@string/keywords_magnification"
             settings:controller="com.android.settings.accessibility.MagnificationPreferenceController"/>
 
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="simple_mode_category"
+        android:persistent="false"
+        android:title="@string/simple_mode_category"
+        settings:controller="com.google.android.settings.simplemode.SimpleModeCategoryController">
+        <Preference
+            android:fragment="com.google.android.settings.simplemode.SimpleModeSettingsFragment"
+            android:key="simple_mode_settings"
+            android:icon="@drawable/ic_simplemode_settings"
+            android:persistent="false"
+            android:title="@string/simple_mode_title"
+            settings:controller="com.google.android.settings.simplemode.SimpleModePreferenceController"/>
     </PreferenceCategory>
 
     <PreferenceCategory

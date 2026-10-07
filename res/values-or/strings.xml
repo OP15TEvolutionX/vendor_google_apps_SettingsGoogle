@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ଯେପରି ରାଜୁର Pixel।</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ଆପଣଙ୍କ ପ୍ରାଇଭେଟ ସ୍ପେସ ବ୍ୟବହାର କରିବା ପାଇଁ ଏକ Google ଆକାଉଣ୍ଟରେ ସାଇନ ଇନ କରନ୍ତୁ</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ଟେକ୍ସଟ ଶୁଣନ୍ତୁ, ରିଡ ଆଲାଉଡ, ସ୍ପିକ ସ୍କ୍ରିନ, ସ୍କ୍ରିନ ରିଡର, ଡିସଲେକ୍ସିଆ, ସିଲେକ୍ଟ ଟୁ ସ୍ପିକ</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ମୋଟର, କୁଇକ ମେନୁ, ଆସିଷ୍ଟିଭ ମେନୁ, ସ୍ପର୍ଶ, ଦକ୍ଷତା, ଆର୍ଥରାଇଟିସ, rsi, ଷ୍ଟ୍ରୋକ, ଟ୍ରେମର, ମଲ୍ଟିପୁଲ ସ୍କ୍ଲେରୋସିସ, ସେରିବ୍ରାଲ ପାଲସି, ବଟନ, ହାର୍ଡୱେର, ଦବାଇବା, ବାରମ୍ବାର ଚାପ ଜନିତ ଆଘାତ, ହାତ, ଯନ୍ତ୍ରଣା, ଆକ୍ସେସଯୋଗ୍ୟ, ସାହାଯ୍ୟ</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">ମୋଟର, ସ୍ୱିଚ୍, ହାତ, AT, ସହାୟକ ଟେକ୍ନୋଲୋଜି, ପକ୍ଷାଘାତ, ALS, ସ୍କାନିଂ, ଷ୍ଟେପ୍ ସ୍କାନିଂ</string>

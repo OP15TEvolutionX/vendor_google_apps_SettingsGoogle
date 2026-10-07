@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">M-n: Abrorning Pixel telefoni.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Maxfiy makon bilan foydalanish uchun Google hisobingizga kiring</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Matnni eshitish, baland ovoz bilan oʻqish, ekranni eshitish, ekrandan oʻqish, disleksiya, teginib tinglash</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">"motorika, tezkor menyu, yordamchi menyu, teginish, tezkorlik, artrit, rsi, insult, tremor, surunkali skleroz, bolalar falaji, tugma, apparat, bosish, qayta shikastlanish, dastak, og'riq, qulay, yordam"</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motor, kalit, qoʻl, AT, yordamchi texnologya, paralich, ALS, skanerlash, qadam skaneri</string>

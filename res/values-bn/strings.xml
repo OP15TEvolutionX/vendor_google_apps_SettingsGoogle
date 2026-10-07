@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">উদাহরণ, সুমনের Pixel</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">আপনার প্রাইভেট স্পেসের সাথে ব্যবহার করতে Google অ্যাকাউন্টে সাইন-ইন করুন</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">টেক্সট শোনা, \'জোরে পড়ো\' ফিচার, স্ক্রিনে পড়ার সুবিধা, ডিজলেক্সিয়া, \'বাছুন ও শুনুন\' ফিচার</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">মোটর, দ্রুত মেনু, সহায়তা মেনু, স্পর্শ, দক্ষতা, আর্থ্রাইটিস, আরএসআই, স্ট্রোক, কাঁপুনি, মাল্টিপল স্ক্লেরোসিস, সেরিব্রাল পাল্‌সি, বোতাম, হার্ডওয়্যার, প্রেস, ক্রমাগত চাপের ফলে আঘাত, হাত, ব্যাথা, অ্যাক্সেস করা যাবে, সাহায্য</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">মোটর, সুইচ, হাত, সহায়ক প্রযুক্তি, প্যারালাইসিস, ALS, স্ক্যান করা, স্টেপ স্ক্যান করা</string>

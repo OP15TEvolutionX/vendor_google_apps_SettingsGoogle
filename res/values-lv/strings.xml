@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Piemērs: Jāņa Pixel ierīce.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Pierakstieties Google kontā, ko izmantot ar privāto telpu</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Atskaņot tekstu, lasīt skaļi, atskaņot ekrāna saturu, ekrāna lasītājs, disleksija, atlasīt, lai izrunātu</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorika, ātrā izvēlne, papildu darbību izvēlne, pieskāriens, roku koordinācija, artrīts, insults, roku trīce, multiplā skleroze, cerebrālā trieka, poga, aparatūra, nospiest, atkārtotas slodzes traumas, roka, sāpes, pieejams, palīdzība</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorika, slēdži, roka, AT, atbalsta tehnoloģija, paralīze, ALS, pārlūkošana, darbību pārlūkošana</string>

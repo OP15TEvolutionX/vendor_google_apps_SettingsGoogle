@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">ഉദാ, ജോയുടെ Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">നിങ്ങളുടെ സ്വകാര്യ സ്പേസിൽ ഉപയോഗിക്കാൻ ഒരു Google Account-ലേക്ക് സൈൻ ഇൻ ചെയ്യുക</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ടെക്‌സ്റ്റ് കേൾക്കുക, ഉറക്കെ വായിക്കുക, സ്പീക്ക് സ്ക്രീൻ, സ്‌ക്രീൻ റീഡർ, ഡിസ്‌ലെക്‌സിയ, വായിച്ചുകേൾക്കാൻ തിരഞ്ഞെടുക്കുക</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">ചലനശേഷി, ദ്രുത മെനു, സഹായകരമായ മെനു, സ്‌പർശനം, കഴിവ്, സന്ധിവാതം, rsi, പക്ഷാഘാതം, വിറയൽ, മൾട്ടിപ്പിൾ സ്‌ക്ലീറോസിസ്, സെറിബ്രൽ പാൾസി, ബട്ടൺ, ഹാർഡ്‌വെയർ, പ്രസ്സ്, ആവർത്തിച്ചുള്ള സ്‌ട്രെയിൻ പരുക്ക്, കൈ, വേദന, ആക്‌സസ് ചെയ്യാവുന്നത്, സഹായം</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">ചലനക്ഷമത, മാറുക, കൈ, AT, സഹായകരമായ സാങ്കേതികവിദ്യ, പക്ഷാഘാതം, ALS, സ്‌കാനിംഗ്, സ്റ്റെപ്പ് സ്കാനിംഗ്</string>

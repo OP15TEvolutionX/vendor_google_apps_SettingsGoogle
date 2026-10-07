@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">"Məs, Joe'nin Pixel'i."</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Şəxsi sahə ilə istifadə etmək üçün Google Hesabına daxil olun</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Mətni eşidin, ucadan oxudun, ekranı səsləndirin, ekran oxuyucusu, disleksiya, basıb dinləyin</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motorika, qısa menyu, yardımçı menyu, toxunuş, çeviklik, artrit, rsi, iflic, əsmə, dağınıq skleroz, serebral iflic, düymə, aparat, basma, təkrarlanan gərginlik zədəsi, əl, ağrı, əlçatan, kömək</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">sistem, keçirici, əl, AT, yardımçı texnologiya, iflic, ALS, skanlama, addım skanlaması</string>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">เช่น Pixel ของสมชาย</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ลงชื่อเข้าใช้บัญชี Google เพื่อใช้กับพื้นที่ส่วนตัว</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">ฟังข้อความ อ่านออกเสียง อ่านหน้าจอ โปรแกรมอ่านหน้าจอ ความบกพร่องในการอ่าน เลือกเพื่อให้อ่าน</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">การเคลื่อนไหว, เมนูด่วน, เมนูช่วยเหลือพิเศษ, สัมผัส, ความคล่องแคล่ว, ภาวะข้ออักเสบ, RSI, โรคหลอดเลือดสมอง, อาการสั่น, โรคปลอกประสาทเสื่อมแข็ง, ภาวะสมองพิการ, ปุ่ม, ฮาร์ดแวร์, กด, การบาดเจ็บจากการทำงานซ้ำๆ, มือ, ความเจ็บปวด, เข้าถึงได้, ความช่วยเหลือ</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">การเคลื่อนไหว, สวิตช์, มือ, AT, เทคโนโลยีความช่วยเหลือพิเศษ, อัมพาต, ALS, การสแกน, การสแกนทีละขั้นตอน</string>

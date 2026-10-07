@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">எ.கா., வித்யாவின் Pixel.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">ரகசிய இடத்தைப் பயன்படுத்த Google கணக்கில் உள்நுழையுங்கள்</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">வார்த்தைகளைப் படித்தல், உரக்கப் படித்தல், திரையில் இருப்பதைப் படித்தல், ஸ்கிரீன் ரீடர், டிஸ்லெக்சியா, பேசும் திரை</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">உடலியக்கம், விரைவு மெனு, அசிஸ்ட்டிவ் மெனு, தொடுதல், கைத்திறன், கீல்வாதம், rsi, பக்கவாதம், நடுக்கம், மல்ட்டிபில் ஸ்க்லரோசிஸ், செரிப்ரல் பால்சி, பட்டன், வன்பொருள், அழுத்துதல், திரும்பத் திரும்ப ஏற்படும் காயம், கை, வலி, அணுகக்கூடியது, உதவி</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">உடல் இயக்கத் திறன், ஸ்விட்ச், கை, AT, உதவிகரமான தொழில்நுட்பம், பக்கவாதம், ALS, ஸ்கேனிங், படிப்படியாக ஸ்கேன் செய்தல்</string>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">例如：Joe 的 Pixel。</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">需要登入 Google 帳戶，才能使用私人空間</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">收聽文字, 朗讀, 朗讀畫面內容, 螢幕閱讀器, 讀寫障礙, 揀選朗讀內容</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">行動, 快速選單, 輔助選單, 輕觸, 靈活性, 關節炎, rsi, 中風, 顫抖, 多發性硬化症, 大腦麻痺, 按鈕, 硬件, 按, 重複性勞損, 手, 痛楚, 無障礙, 協助</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">行動, 按鈕裝置, AT, 輔助科技, 癱瘓, ALS, 掃瞄, 步驟掃瞄</string>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">"P. ex.: El Pixel de l'Anna."</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Inicia la sessió en un Compte de Google per utilitzar l\'espai privat</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">Escoltar text, llegir en veu alta, veu en pantalla, lector de pantalla, dislèxia, escoltar la selecció</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">"motricitat, menú ràpid, menú d'assistència, toc, destresa, artritis, rsi, accident cerebrovascular, tremolor, esclerosi múltiple, paràlisi cerebral, botó, maquinari, premsa, lesió per moviment repetitiu, mà, dolor, accessible, ajuda"</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motor, interruptor, mà, TA, tecnologia assistencial, paràlisi, ELA, cerca, cerca per passos</string>

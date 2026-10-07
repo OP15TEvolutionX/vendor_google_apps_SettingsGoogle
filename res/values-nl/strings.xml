@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Hint text shown in owner info edit text [CHAR LIMIT=50] -->
+    <string name="owner_info_settings_edit_text_hint">Bijvoorbeeld Pixel van Jan.</string>
+
     <!-- Summary for the private space account login error screen. [CHAR LIMIT=NONE] -->
     <string name="private_space_retry_summary">Log in op een Google-account dat je wilt gebruiken met je privégedeelte</string>
 
@@ -45,6 +48,9 @@
 
     <!-- List of synonyms used in the settings search bar to find the “Select to Speak”. [CHAR LIMIT=NONE] -->
     <string name="keywords_select_to_speak">tekst horen, voorlezen, scherm voorlezen, schermlezer, dyslexie, selecteer om voor te lezen</string>
+
+    <!-- List of synonyms used in the settings search bar to find the “Accessibility Menu”. [CHAR LIMIT=NONE] -->
+    <string name="keywords_accessibility_menu">motoriek, snelmenu, ondersteunend menu, aanraken, mobiliteit, artritis, rsi, beroerte, tremor, multiple sclerosis, hersenverlamming, knop, hardware, drukken, repetitive strain injury, hand, pijn, toegankelijk, hulp</string>
 
     <!-- List of synonyms used in the settings search bar to find the “Switch Access”. [CHAR LIMIT=NONE] -->
     <string name="keywords_switch_access">motorisch, schakelaar, hand, AT, ondersteunende technologie, verlamming, ALS, scannen, scannen in stappen</string>
